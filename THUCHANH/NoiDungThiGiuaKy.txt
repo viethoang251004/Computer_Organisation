@@ -1,0 +1,41 @@
+CH1
+- Máy tính biểu diễu dữ liệu dưới dạng gì?
+- Giải thích về: ngôn ngữ cấp cao / Hợp ngữ / Mã máy.
+- Giải thech vai trò của CPU / RAM / Thiết bị nhập xuất / BUS
+- Đơn vị nhỏ nhất trong lưu trữ máy tính là gì?
+- 1 byte = ? bits
+- 1 Kbyte = ? bytes
+- Chuyển số thập phân sang nhị phân.
+- Đọc giá trị thập phân của một số nhị phân.
+- Để biểu diễn 50 giá trị cần ít nhất bao nhiêu bits?
+- Số 0xC chuyển sang hệ thập phân bằng bn?
+
+
+
+
+CH2
+- Cho bảng chân trị, đọc biểu thức F. //xem minterm + maxterm
+- Luật trong đại số Bool.
+- Thứ tự ưu tiên phép toán
+- Lượng giá biểu thức đại số bool
+
+
+CH3
+- Cổng đa năng là các cổng nào?
+- Cho mạch đọc công thức
+- Cho công thức vẽ mạch.
+
+
+CH4
+- Các pp rút gọn dùng trong đại số bool là các pp nào?
+- Đọc công thức các nhóm.
+- Chọn Don't care
+
+CH5:
+- Xem 4 linh kiện của chương, các ứng dụng của chúng.
+
+
+CH6:
+- Counter
+- Mạch lật.
+- Các linh kiện S-R. D, T, J-K, ...
